@@ -10,7 +10,7 @@ The project uses Express.js for handling requests/responses, Sequelize/MySQL2 fo
 
 ## Local
 
-First start by making sure all project files have been downloaded and dependencies installed. A sample .env file has been included as ".env.EXAMPLE". Rename this to ".env" and updated the username and password variables to your credentials.
+First start by making sure all project files have been downloaded and dependencies installed. A sample .env file has been included as ".env.EXAMPLE". Rename this to ".env" and update the username and password variables to your credentials.
 
 ## Heroku
 
